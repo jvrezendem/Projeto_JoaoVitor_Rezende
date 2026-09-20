@@ -13,5 +13,9 @@ public class D {
     public void md4(){
         System.out.println("md4");
     }
+    
+    public void md3(){
+        System.out.println("md3");
+    }
 
 }
